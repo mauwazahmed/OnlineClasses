@@ -3,18 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-Link
-</title>
-<style>
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 </head>
 <body>
 <table class="center">
