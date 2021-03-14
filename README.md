@@ -1,41 +1,51 @@
 # OnlineClasses
-
 <!DOCTYPE html>
 <html>
 <head>
 </head>
 <body>
-<table class="center">
+<table>
   <tr>
     <th>Subject</th>
     <th>Meet</th>
     <th>Class</th>
   </tr>
   <tr>
-    <td>Automata Theory</td>
-    <td><a href = "https://meet.google.com/qgp-vzhn-mbm">qgp-vzhn-mbm</a></td>
-    <td><a href = "https://classroom.google.com/c/MTIyNDYxNTk2Njcy">classroom.google.com</a></td>
+    <td>Compiler Design</td>
+    <td><a href = "http://meet.google.com/zma-twsr-unw">zma-twsr-unw</a></td>
+    <td><a href = "https://classroom.google.com/c/Mjc0ODg3MDI0Njgw">classroom</a></td>
   </tr>
   <tr>
-    <td>Network</td>
-    <td><a href = "https://meet.google.com/ydh-bzry-phw">ydh-bzry-phw</a></td>
-    <td><a href = "https://classroom.google.com/c/MTM4MjY3NDUzMTQ4">classroom.google.com</a></td>
+    <td>IP</td>
+    <td><a href = "https://meet.google.com/sdx-zvsn-vuc">sdx-zvsn-vuc</a></td>
+    <td><a href = "https://classroom.google.com/c/Mjc0NzAzNzQ1MDgz">classroom</a></td>
   </tr>
   <tr>
-    <td>OOPs</td>
-    <td><a href = "https://meet.google.com/boj-jxxk-goz">boj-jxxk-goz</a></td>
-    <td><a href = "https://classroom.google.com/c/MTUxNjYwMTQ1ODY1">classroom.google.com</a></td>
+    <td>ADA</td>
+    <td><a href = "https://meet.google.com/jbc-jsuz-fix">jbc-jsuz-fix</a></td>
+    <td>classroom</td>
   </tr>
   <tr>
-    <td>Architecture</td>
-    <td><a href = "https://meet.google.com/dvf-vhno-wmm">dvf-vhno-wmm</a></td>
-    <td><a href = "https://classroom.google.com/c/MTIyNDAwNDAxMTcz">classroom.google.com</a></td>
+    <td>Embedded Systems</td>
+    <td><a href = "https://meet.google.com/ozj-ouco-svy">ozj-ouco-svy</a></td>
+    <td><a href = "https://classroom.google.com/c/Mjc0NzMzNzcwNTQy">classroom</a></td>
   </tr>
   <tr>
-    <td>Micoprocessor</td>
-    <td><a href = "https://meet.google.com/izv-npbt-xqq">izv-npbt-xqq</a></td>
-    <td><a href = "https://classroom.google.com/c/MTIyMDQxMjk1MjI0">classroom.google.com</a></td>
+    <td>Software</td>
+    <td>None</td>
+    <td><a href = "https://classroom.google.com/c/Mjc0NTM4MTQ0NDgy">classroom</a></td>
   </tr>
+  <tr>
+    <td>Embedded Lab</td>
+    <td><a href = "https://meet.google.com/sdx-zvsn-vuc">sdx-zvsn-vuc</a></td>
+    <td><a href = "https://classroom.google.com/c/Mjc3NzM4MzE1MTA2">classroom</a></td>
+  </tr>
+  <tr>
+    <td>Compiler Design Lab</td>
+    <td><a href = "https://meet.google.com/nhu-bciw-iwa">nhu-bciw-iwa</a></td>
+    <td><a href = "https://classroom.google.com/c/Mjc0NTA0MzAyMjI5">classroom</a></td>
+  </tr>
+  
 </table>
 </body>
 </html>
