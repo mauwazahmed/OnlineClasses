@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>Embedded Lab</td>
-    <td><a href = "https://meet.google.com/sdx-zvsn-vuc">sdx-zvsn-vuc</a></td>
+   <td><a href = "https://meet.google.com/ozj-ouco-svy">ozj-ouco-svy</a></td>
     <td><a href = "https://classroom.google.com/c/Mjc3NzM4MzE1MTA2">classroom</a></td>
   </tr>
   <tr>
