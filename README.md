@@ -10,28 +10,23 @@
     <th>Class</th>
   </tr>
   <tr>
-    <td>Data Mining</td>
-    <td><a href = "https://meet.google.com/vsm-dcnh-ohg">vsm-dcnh-ohg</a></td>
-    <td><a href = "https://classroom.google.com/u/0/c/MzcyNTc3NDYyODIx">classroom</a></td>
+    <td>Network Security</td>
+    <td><a href = "https://meet.google.com/guj-iwvu-dhk">guj-iwvu-dhk</a></td>
+    <td><a href = "https://classroom.google.com/u/0/c/NDQ3OTQyOTIwNDY2">classroom</a></td>
   </tr>
   <tr>
-    <td>Artificial Intelligence</td>
-    <td>meet</td>
-    <td><a href = "https://classroom.google.com/u/0/c/Mzc1MzY5MTQxNjc4">classroom</a></td>
+    <td>NLP</td>
+    <td><a href = "https://meet.google.com/szu-gkdx-jhv">szu-gkdx-jhv</a></td>
+    <td><a href = "https://classroom.google.com/u/0/c/MTIyNDAwNDAxMTcz">classroom</a></td>
   </tr>
   <tr>
-    <td>Mobile Communication</td>
-    <td><a href = "https://meet.google.com/vmc-uuio-bkm">vmc-uuio-bkm</a></td>
-    <td><a href = "https://classroom.google.com/u/0/c/Mzc1OTAzMjQwMTQ0">classroom</a></td>
+    <td>Soft Computing</td>
+    <td><a href = "https://meet.google.com/ptm-vbgy-tgn">ptm-vbgy-tgn</a></td>
+    <td><a href="https://classroom.google.com/u/0/c/NDUzNTQwMDg1MjI4">classroom</a></td>
   </tr>
   <tr>
-    <td>Parallel and Distributed Computing</td>
-    <td><a href = "https://meet.google.com/iox-dfqk-brp">iox-dfqk-brp</td>
-    <td><a href="https://classroom.google.com/u/0/c/MzE5MTcyODY1ODMy">classroom</a></td>
-  </tr>
-  <tr>
-    <td>Data Mining Lab</td>
-    <td>meet</td>
+    <td>NLP Lab</td>
+    <td><a href = "https://meet.google.com/">meet</td>
     <td><a href="https://classroom.google.com/u/0/c/MTIyNDAwNDAxMTcz">classroom</a></td>
   </tr>
   
